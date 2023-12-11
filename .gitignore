@@ -1,2 +1,4 @@
 
 main.exe
+build/config.json
+build/scripts/template.py
