@@ -8,7 +8,7 @@ import (
 	"time"
 )
 const (
-	Title = "Artemis"	
+	Title = "Artemis-go"	
 )
 
 func clearConsole() {
